@@ -6,17 +6,15 @@ baseurl: '/PanelCV' #change it according to your repository name
 
 
 # Profile information
-yourname: Brown Smith  ## put your name
-title: 'GRAPHIC &amp; WEB DESIGNER'  ## your title
-location: San Francisco , CA
+yourname: Rishab Patwari  ## put your name
+title: 'Computer Engineering Undergraduate'  ## your title
+location: Singapore , SG
 
 
 ## Social Profiles
-facebook: http://www.facebook.com  ## your facebook account url
-twitter: http://www.twitter.com  ## your twitter account url
-linkedin: http://www.linkedin.com  ## your linkedin account url
-dribbble: http://www.dribble.com  ## you dribbble account url
-foursquare: http://www.foursquare.com  ## your foursquare account url
+facebook: facebook.com/rishab.patwari1  ## your facebook account url
+linkedin: www.linkedin.com/in/rishab-patwari  ## your linkedin account url
+github: https://github.com/patwaririshab 
 
 
 
